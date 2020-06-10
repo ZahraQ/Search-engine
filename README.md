@@ -16,7 +16,9 @@ This work is concentrated on building a search engine based on hadoop technologi
 · Writing a Script researching a given word.
 
 Bibliography
+
 [1] Sato, Yoichi, et al. "Novel approach for search engine." Microsystems, Packaging, Assembly
 and Circuits Technology Conference (IMPACT), 2016 11th International. IEEE, 2016.
+
 [2] Voorhees, Ellen M. "Natural language processing and information retrieval." Information
 Extraction. Springer, Berlin, Heidelberg, 1999. 32-48.
