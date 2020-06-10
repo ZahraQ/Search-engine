@@ -6,6 +6,7 @@ information which must be consulted, akin to other techniques for managing infor
 Actually, we need intelligent search engines to manage big data processing. Find data quickly in a large
 database can be very difficult and time consumption. The recent work done in this field aims to produce
 high speed and low power results.[1]
+
 This work is concentrated on building a search engine based on hadoop technologies:
 · Writing a Map Reduce program “inverted Index” applied on “Books.jason” document.
 · Execute this program on Hadoop Streaming (HDFS)
